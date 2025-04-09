@@ -149,4 +149,6 @@ write memory
 
 This setup provides a functional guest wireless network with a simulated captive portal and appropriate access restrictions using VLANs, ACLs, and NAT within the Cisco Packet Tracer environment.
 
-https://youtu.be/eiqm6VrCD7A
+## Example Resources
+
+* Example YouTube URL: [https://youtu.be/eiqm6VrCD7A](https://youtu.be/eiqm6VrCD7A)
